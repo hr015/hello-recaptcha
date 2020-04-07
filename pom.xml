@@ -29,6 +29,12 @@
 			<id>vaadin-addons</id>
 			<url>http://maven.vaadin.com/vaadin-addons</url>
 		</repository>
+		<!--other repositories if any-->
+		<repository>
+			<id>project.local</id>
+			<name>project</name>
+			<url>file:${project.basedir}/repo</url>
+		</repository>
 	</repositories>
 
 	<dependencyManagement>
@@ -160,12 +166,6 @@
 					<snapshots>
 						<enabled>true</enabled>
 					</snapshots>
-				</repository>
-				<!--other repositories if any-->
-				<repository>
-					<id>project.local</id>
-					<name>project</name>
-					<url>file:${project.basedir}/repo</url>
 				</repository>
 			</repositories>
 			<pluginRepositories>
