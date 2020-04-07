@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.wcs.wcslib</groupId>
+  <artifactId>cosmos-vaadin-recaptcha-plugin</artifactId>
+  <versioning>
+    <release>2.0.4</release>
+    <versions>
+      <version>2.0.4</version>
+    </versions>
+    <lastUpdated>20200407104956</lastUpdated>
+  </versioning>
+</metadata>
