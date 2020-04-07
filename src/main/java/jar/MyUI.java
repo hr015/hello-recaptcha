@@ -40,7 +40,7 @@ public class MyUI extends UI {
 
 
         ReCaptcha captcha = new ReCaptcha(
-                "6Lf4kkgUAAAAAP_BR4o5buBo74Fq1LqbVcjC9BDZ",
+                "6LdRkucUAAAAALeSubZQm8tEjNBm-7tTvKQ4psOJ",
                 new ReCaptchaOptions() {
 
 
@@ -51,7 +51,7 @@ public class MyUI extends UI {
 
                     {
                         theme = "light";
-                        sitekey = "6Lf4kkgUAAAAADKOs-DQLpp88GOr_teBUwzb8BT2";
+                        sitekey = "6LdRkucUAAAAADuo4j8CJ71EtuFizzrF8DA7aV3o";
 //		                        type = (String)typeSelect.getValue();
 //		                        size = (String)sizeSelect.getValue().toString();
                     }
