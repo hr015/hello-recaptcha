@@ -11,8 +11,8 @@ import com.vaadin.ui.Label;
 import com.vaadin.ui.TextField;
 import com.vaadin.ui.UI;
 import com.vaadin.ui.VerticalLayout;
-import com.wcs.wcslib.vaadin.widget.recaptcha.ReCaptcha;
-import com.wcs.wcslib.vaadin.widget.recaptcha.shared.ReCaptchaOptions;
+import esa.cosmos.lib.vaadin.widget.recaptcha.ReCaptcha;
+import esa.cosmos.lib.vaadin.widget.recaptcha.shared.ReCaptchaOptions;
 
 /**
  * This UI is the application entry point. A UI may either represent a browser window 

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c9df01f-1a25-46d2-a5cf-73d9a39f3fb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__esa_cosmos_lib_cosmos_vaadin_recaptcha_plugin_2_0_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_wcs_wcslib_cosmos_vaadin_recaptcha_plugin_2_0_4.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-recaptcha.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-recaptcha.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/jar/MyUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jar/MyUI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,11 +43,16 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="386" y="206" width="889" height="486" key="find.popup" timestamp="1586260221248">
-      <screen x="0" y="23" width="1440" height="834" />
+    <state x="386" y="207" width="889" height="488" key="find.popup" timestamp="1589967264150">
+      <screen x="0" y="23" width="1440" height="837" />
     </state>
     <state x="386" y="206" width="889" height="486" key="find.popup/0.23.1440.834/-1920.-91.1920.1057@0.23.1440.834" timestamp="1586260221248" />
     <state x="386" y="206" width="889" height="486" key="find.popup/0.23.1440.834@0.23.1440.834" timestamp="1585989597114" />
+    <state x="386" y="207" width="889" height="488" key="find.popup/0.23.1440.837@0.23.1440.837" timestamp="1589967264150" />
+    <state x="114" y="72" key="new project wizard" timestamp="1589297829714">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="114" y="72" key="new project wizard/0.23.1440.837/-1920.-91.1920.1057@0.23.1440.837" timestamp="1589297829714" />
     <state x="385" y="181" width="670" height="676" key="search.everywhere.popup" timestamp="1585998146466">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
